@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Web Design
 - 🌱 Estudando Javascript
-- 😄 Pronouns: ele/dele
+- 📖 Formação Acadêmica: Engenharia de Software 💻 - Em Andamento
 
 <div>
   <a href="https://github.com/gabriellsux">
