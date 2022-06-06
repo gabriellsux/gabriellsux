@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Gabriel Martins
 
 - 🔭 Hoje trabalho com Web Design
-- 🌱 Estudando Javascript
+- 🖥️ Futuro Engenheiro de Software
+- 🌱 Estudando HTML, CSS e Javascript
 - 📖 Formação Acadêmica: Engenharia de Software 💻 - Em Andamento
 
 <div>
