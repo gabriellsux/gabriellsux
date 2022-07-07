@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Martins
+## Prazer! Meu nome é Gabriel Martins
 
 - 🔭 Hoje trabalho com Web Design
 - 🌱 Estudando HTML, CSS e Javascript
