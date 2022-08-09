@@ -1,6 +1,6 @@
 ## Prazer! Meu nome é Gabriel Martins
 
-- 🔭 Hoje trabalho com Web Design
+- 🔭 Hoje trabalho como Web Design
 - 🌱 Estudando HTML, CSS e Javascript
 
 <div>
