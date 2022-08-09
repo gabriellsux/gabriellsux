@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Web Design
 - 🌱 Estudando HTML, CSS e Javascript
-- 📖 Formação Acadêmica: Análise e Desenvolvimento de Sistemas 💻 - Em Andamento
 
 <div>
   <a href="https://github.com/gabriellsux">
