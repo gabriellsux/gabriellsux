@@ -1,7 +1,7 @@
 ## Prazer! Meu nome é Gabriel Martins
 
 - 🔭 Hoje trabalho como Web Design
-- 🌱 Estudando HTML, CSS e Javascript
+- 🌱 Estudando HTML | CSS | Javascript | React.JS | NodeJS
 
 <div>
   <a href="https://github.com/gabriellsux">
