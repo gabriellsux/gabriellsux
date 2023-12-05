@@ -1,6 +1,5 @@
 ## Prazer! Meu nome é Gabriel Martins
 
-- 🔭 Hoje trabalho como Web Design
 - 🌱 Conhecimentos HTML | CSS | Javascript | React.JS | NodeJS
 
 <div>
